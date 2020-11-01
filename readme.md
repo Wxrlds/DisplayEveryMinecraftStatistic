@@ -1,8 +1,10 @@
-A Minecraft Datapack dedicated towards making it easier displaying Scoreboards. Best you use this with my other Datapacks [RecordEveryMinecraftStatistic](https://github.com/Wxrlds/RecordEveryMinecraftStatistic) and [https://github.com/Wxrlds/ProcessEveryMinecraftStatistic](https://github.com/Wxrlds/ProcessEveryMinecraftStatistic)
+A Minecraft Datapack dedicated towards making it easier displaying Scoreboards.
+
+Best you use this with my other Datapacks [RecordEveryMinecraftStatistic](https://github.com/Wxrlds/RecordEveryMinecraftStatistic) and [PEMS](https://github.com/Wxrlds/ProcessEveryMinecraftStatistic)
 
 It can display some pre defined scores in the tab list.
 
-Please read the installation guide on how to change what scores are displayed as by default this Datapack loads in Scoreboards added by my other Datapacks [REMS](https://github.com/Wxrlds/RecordEveryMinecraftStatistic) and [Pems](https://github.com/Wxrlds/ProcessEveryMinecraftStatistic). Either add your custom Scoreboards or install both of the Addons or this Datapack will fail!
+Please read the installation guide on how to change what scores are displayed as by default this Datapack loads in Scoreboards added by my other Datapacks [REMS](https://github.com/Wxrlds/RecordEveryMinecraftStatistic) and [PEMS](https://github.com/Wxrlds/ProcessEveryMinecraftStatistic). Either add your custom Scoreboards or install both of the Addons or this Datapack will fail!
 
 Compatible with REMS Version [MC1.16.2-V1](https://github.com/Wxrlds/RecordEveryMinecraftStatistic/releases/tag/MC1.16.2-V1) and PEMS Version [MC1.16.2-V2](https://github.com/Wxrlds/RecordEveryMinecraftStatistic/releases/tag/MC1.16.2-V2)
 
