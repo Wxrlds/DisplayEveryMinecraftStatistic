@@ -2,7 +2,7 @@ A Minecraft Datapack dedicated towards making it easier displaying Scoreboards.
 
 Best you use this with my other Datapacks [RecordEveryMinecraftStatistic](https://github.com/Wxrlds/RecordEveryMinecraftStatistic) and [ProcessEveryMinecraftStatistic](https://github.com/Wxrlds/ProcessEveryMinecraftStatistic)
 
-It can display some pre defined scores in the tab list.
+It can display some pre defined scores in the sidebar.
 
 Please read the installation guide on how to change what scores are displayed as by default this Datapack loads in Scoreboards added by my other Datapacks [REMS](https://github.com/Wxrlds/RecordEveryMinecraftStatistic) and [PEMS](https://github.com/Wxrlds/ProcessEveryMinecraftStatistic). Either add your custom Scoreboards or install both of the Addons or this Datapack will fail!
 
