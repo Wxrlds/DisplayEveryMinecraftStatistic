@@ -1,3 +1,5 @@
+scoreboard objectives add g_health health "Health"
+
 scoreboard objectives setdisplay list g_health
 scoreboard objectives setdisplay belowName g_health
 
